@@ -76,6 +76,7 @@ Nest is [MIT licensed](LICENSE).
 
 - run docker build -t myapp to create docker image
 - run docker-compose up --build to run the app inside docker container
+- the server runs on 3000 port
 - .env :
   DATABASE_HOST=db
   DATABASE_PORT=5432
